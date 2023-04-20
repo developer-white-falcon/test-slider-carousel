@@ -285,7 +285,7 @@ body {
   position: relative !important ;
   background-color: rgb(255, 0, 242);
 
-  top: -1vh !important ;  
+  top: 0vh !important ;  
   width: 21vw !important ;
   height: 21vh !important ;
 
