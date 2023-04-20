@@ -28,7 +28,7 @@ $(".autoplay").slick({
         speed: 1000,
         easing: 'leaner',
         pauseOnHover: true,
-        pauseOnFocus: true,  
+        pauseOnFocus: false,  
         pauseOnDotsHover: true,
         
         vertical: true,
